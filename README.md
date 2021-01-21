@@ -8,3 +8,6 @@ Files
 2. Python Script 
 3. Automatic Updating .bam file
 4. Setting up daily execution instructions
+
+Links
+1. Google Sheet: https://docs.google.com/spreadsheets/d/1BGit5lxZW1NdSIC-U89JFyzD8vJUs9iQ4cAe7hLR56I/edit?usp=sharing 
