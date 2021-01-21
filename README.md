@@ -6,7 +6,7 @@ This project takes a Google Sheet with 4 tabs and automatically records changes 
 Files
 1. Sample Test Google Sheet
 2. Python Script 
-3. Automatic Updating .bam file
+3. Automatic Updating .bat file
 4. Setting up daily execution instructions
 
 Links
