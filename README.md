@@ -11,3 +11,5 @@ Files
 
 Links
 1. Google Sheet: https://docs.google.com/spreadsheets/d/1BGit5lxZW1NdSIC-U89JFyzD8vJUs9iQ4cAe7hLR56I/edit?usp=sharing 
+2. Medium article on Google Sheets to Pandas Setup: https://medium.com/@vince.shields913/reading-google-sheets-into-a-pandas-dataframe-with-gspread-and-oauth2-375b932be7bf
+3. Documentation on gspread: https://gspread.readthedocs.io/en/latest/
