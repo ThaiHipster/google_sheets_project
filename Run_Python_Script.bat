@@ -1,2 +1,2 @@
-"C:\Users\Robert Alward\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\Robert Alward\Desktop\Spreadsheet2\Spreadsheet2.py"
+"path to python.exe file" "path to python file Spreadsheet2.py"
 pause
